@@ -20,6 +20,7 @@ add_executable(net_swimmer
     src/mail_home.cpp
     src/util.cpp
     src/embedded_js.cpp
+    src/blob_transport.cpp    
     third_party/duktape/duktape.c
 )
 
